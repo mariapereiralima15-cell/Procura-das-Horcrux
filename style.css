@@ -1,0 +1,16 @@
+Body {
+    background-color: rgb(115, 108, 108);
+    color :white;
+    font-family:  "Story Script", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(58, 76, 35);
+    color: white;
+    font-family:  "Story Script", sans-serif;
+}
